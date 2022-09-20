@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  background: #000000;
+}
+
+.itemMargin {
+  margin-top: 20px;
+}
+
+h1 {
+  font-family: 'Roboto';
+}
